@@ -1,0 +1,51 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Primary = Color(0xFF1D4ED8)
+val PrimaryContainer = Color(0xFF3B82F6)
+val OnPrimary = Color(0xFFFFFFFF)
+val OnPrimaryContainer = Color(0xFFFFFFFF)
+val PrimaryFixed = Color(0xFFDBEAFE)
+val PrimaryFixedDim = Color(0xFFBFDBFE)
+val OnPrimaryFixed = Color(0xFF1E3A8A)
+val OnPrimaryFixedVariant = Color(0xFF1D4ED8)
+
+val Secondary = Color(0xFF7C3AED)
+val SecondaryContainer = Color(0xFF8B5CF6)
+val OnSecondary = Color(0xFFFFFFFF)
+val OnSecondaryContainer = Color(0xFFFFFFFF)
+val SecondaryFixed = Color(0xFFEDE9FE)
+val SecondaryFixedDim = Color(0xFFDDD6FE)
+val OnSecondaryFixed = Color(0xFF4C1D95)
+val OnSecondaryFixedVariant = Color(0xFF6D28D9)
+
+val Tertiary = Color(0xFF059669)
+val TertiaryContainer = Color(0xFF10B981)
+val OnTertiary = Color(0xFFFFFFFF)
+val OnTertiaryContainer = Color(0xFFFFFFFF)
+val TertiaryFixed = Color(0xFFD1FAE5)
+val TertiaryFixedDim = Color(0xFFA7F3D0)
+val OnTertiaryFixed = Color(0xFF064E3B)
+val OnTertiaryFixedVariant = Color(0xFF047857)
+
+val Surface = Color(0xFFF8FAFC)
+val SurfaceBright = Color(0xFFFFFFFF)
+val SurfaceDim = Color(0xFFE2E8F0)
+val SurfaceContainerLowest = Color(0xFFFFFFFF)
+val SurfaceContainerLow = Color(0xFFF1F5F9)
+val SurfaceContainer = Color(0xFFE2E8F0)
+val SurfaceContainerHigh = Color(0xFFCBD5E1)
+val SurfaceContainerHighest = Color(0xFF94A3B8)
+
+val OnSurface = Color(0xFF0F172A)
+val OnSurfaceVariant = Color(0xFF475569)
+val Outline = Color(0xFF94A3B8)
+val OutlineVariant = Color(0xFFE2E8F0)
+val InverseSurface = Color(0xFF1E293B)
+val InverseOnSurface = Color(0xFFF8FAFC)
+
+val Error = Color(0xFFDC2626)
+val ErrorContainer = Color(0xFFFEE2E2)
+val OnError = Color(0xFFFFFFFF)
+val OnErrorContainer = Color(0xFF991B1B)

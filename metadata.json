@@ -1,0 +1,6 @@
+{
+  "name": "StockSense",
+  "description": "AI Inventory Command Center with real-time telemetry, predictive restocking, and multi-hub stock management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

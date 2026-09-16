@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded background container -->
+    <path
+        android:fillColor="#0E1424"
+        android:pathData="M24,4 L84,4 A20,20 0 0,1 104,24 L104,84 A20,20 0 0,1 84,104 L24,104 A20,20 0 0,1 4,84 L4,24 A20,20 0 0,1 24,4 Z" />
+
+    <!-- Bar 1 (Left) -->
+    <path
+        android:fillColor="#2552A8"
+        android:pathData="M32,60 L42,60 A4,4 0 0,1 46,64 L46,74 A4,4 0 0,1 42,78 L32,78 A4,4 0 0,1 28,74 L28,64 A4,4 0 0,1 32,60 Z" />
+
+    <!-- Bar 2 (Middle) -->
+    <path
+        android:fillColor="#2470E4"
+        android:pathData="M48,46 L58,46 A4,4 0 0,1 62,50 L62,74 A4,4 0 0,1 58,78 L48,78 A4,4 0 0,1 44,74 L44,50 A4,4 0 0,1 48,46 Z" />
+
+    <!-- Bar 3 (Right) -->
+    <path
+        android:fillColor="#8A4CFC"
+        android:pathData="M64,36 L74,36 A4,4 0 0,1 78,40 L78,74 A4,4 0 0,1 74,78 L64,78 A4,4 0 0,1 60,74 L60,40 A4,4 0 0,1 64,36 Z" />
+
+    <!-- Trend line -->
+    <path
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M31,68 L50,42 L62,55 L75,32" />
+
+    <!-- Trend node dot -->
+    <path
+        android:fillColor="#B075FF"
+        android:pathData="M80,26 A5.5,5.5 0 1,1 80,37 A5.5,5.5 0 1,1 80,26 Z" />
+</vector>
